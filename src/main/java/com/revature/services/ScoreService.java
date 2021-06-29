@@ -3,7 +3,7 @@ package com.revature.services;
 import com.revature.entities.Score;
 
 import java.util.List;
-// meaningless comment
+// meaningless comment 2.0
 public interface ScoreService {
 
     Score addScore(Score score);
