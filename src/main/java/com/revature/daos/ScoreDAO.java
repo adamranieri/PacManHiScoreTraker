@@ -4,6 +4,7 @@ import com.revature.entities.Score;
 
 import java.util.List;
 
+// nothing comment
 public interface ScoreDAO {
 
     //CREATE
